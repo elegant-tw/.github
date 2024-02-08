@@ -18,7 +18,7 @@
 - 2023.04.25 網站試營運
   - 前端頁面：https://elegant.tw
   - 後端 API：https://v0.elegant.tw
-- 2023.04.27 感謝「[雲原生台灣社群 Cloud Native Taiwan User Group](https://cloudnative.tw/)」贊助主機
+- 2023.04.27 感謝「[雲端原生台灣社群 Cloud Native Taiwan User Group](https://cloudnative.tw/)」贊助主機
 - 2023.05.07 公開前端與後端程式碼，發布《言雅》v0.2.0 版本和串接 API 文件
 
 ### 後續工作
